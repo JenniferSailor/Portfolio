@@ -18,7 +18,7 @@ Data Analytics Work
 Machine Learning Work
 - 2024:
 - 2023:
-  - https://github.com/JenniferSailor/DataAnalyticsIntern_FFBKC/blob/main/README.md
+  - https://github.com/JenniferSailor/DataAnalyticsIntern_FFBKC
 - 2022:
 
 
