@@ -26,6 +26,7 @@ A comprehensive README with project snapshots for recruiters to evaluate my skil
 **Data Analytics Work**
 - 2024:
   - :desktop_computer: https://github.com/JenniferSailor/EcologicalDataScientist_LemoineLab
+  - :notebook: https://github.com/JenniferSailor/KCSchoolsCrimeRisk_DataIntelligence
 - 2023:
 - 2022:
   - :desktop_computer: https://github.com/JenniferSailor/AssessmentResearcher_LibraryServices
