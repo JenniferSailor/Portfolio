@@ -18,23 +18,23 @@ A comprehensive README with project snapshots for recruiters to evaluate my skil
 **Machine Learning Work**
 - 2024:
   - :desktop_computer: [Ecological Data Scientist](https://github.com/JenniferSailor/EcologicalDataScientist_LemoineLab)
-  - :notebook: https://github.com/JenniferSailor/GuassianProcessRegressionPerformance_StatisticalMachineLearning
+  - :notebook: [Gaussian Process Regression Performance](https://github.com/JenniferSailor/GuassianProcessRegressionPerformance_StatisticalMachineLearning) 
 - 2023:
-  - :desktop_computer: https://github.com/JenniferSailor/DataAnalyticsIntern_FFBKC
+  - :desktop_computer: [Data Analytics Intern](https://github.com/JenniferSailor/DataAnalyticsIntern_FFBKC)
 - 2022:
 
 
 **Data Analytics Work**
 - 2024:
-  - :desktop_computer: https://github.com/JenniferSailor/EcologicalDataScientist_LemoineLab
-  - :notebook: https://github.com/JenniferSailor/KCSchoolsCrimeRisk_DataIntelligence
+  - :desktop_computer: [Ecological Data Scientist](https://github.com/JenniferSailor/EcologicalDataScientist_LemoineLab)
+  - :notebook: [Kansas City School Crime Risk Analysis](https://github.com/JenniferSailor/KCSchoolsCrimeRisk_DataIntelligence)
 - 2023:
-  - :notebook: https://github.com/JenniferSailor/RShinyEMAlgorithm_ComputationalProbability
+  - :notebook: [RShiny EM Algorithm App](https://github.com/JenniferSailor/RShinyEMAlgorithm_ComputationalProbability)
 - 2022:
-  - :desktop_computer: https://github.com/JenniferSailor/AssessmentResearcher_LibraryServices
-  - :desktop_computer: https://github.com/JenniferSailor/AssessmentResearcher_AdmissionsOffice
+  - :desktop_computer: [Assessment Research - Library Services Project](https://github.com/JenniferSailor/AssessmentResearcher_LibraryServices)
+  - :desktop_computer: [Assessment Research - Admissions Office](https://github.com/JenniferSailor/AssessmentResearcher_AdmissionsOffice)
 - 2021:
-  - :desktop_computer: https://github.com/JenniferSailor/DataAnalyticsUndergraduateResearcher
+  - :desktop_computer: [Data Analytics Healthcare Undergraduate Research](https://github.com/JenniferSailor/DataAnalyticsUndergraduateResearcher)
 
 
 **Applications:**
