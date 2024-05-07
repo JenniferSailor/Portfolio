@@ -1,6 +1,6 @@
 # Portfolio
 
-WELCOME! I am still under construction, but feel free to look around :smile:
+WELCOME! 🥳 🌟
 
 **About Me:**
 With a passion for data-driven insights and problem-solving, I bring a blend of academic rigor and real-world experience to the field of data science. My Master's degree in Applied Statistics and Bachelor's degree in Data Science, coupled with two and a half years of experience, give me a strong background in data analysis, machine learning, and project management. 
