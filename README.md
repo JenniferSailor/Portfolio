@@ -29,6 +29,7 @@ A comprehensive README with project snapshots for recruiters to evaluate my skil
   - :desktop_computer: https://github.com/JenniferSailor/EcologicalDataScientist_LemoineLab
   - :notebook: https://github.com/JenniferSailor/KCSchoolsCrimeRisk_DataIntelligence
 - 2023:
+  - :notebook: https://github.com/JenniferSailor/RShinyEMAlgoirthm_ComputationalProbability
 - 2022:
   - :desktop_computer: https://github.com/JenniferSailor/AssessmentResearcher_LibraryServices
   - :desktop_computer: https://github.com/JenniferSailor/AssessmentResearcher_AdmissionsOffice
