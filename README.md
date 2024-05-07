@@ -8,7 +8,9 @@ Throughout my career, I've thrived in team-oriented environments, leveraging my 
 
 **Link:** [Jennifer's LinkedIn](https://www.linkedin.com/in/jennifer-ann-nicole-sailor/)
 
-## Description:
+## Experience
+
+**Description:**
 A comprehensive README with project snapshots for recruiters to evaluate my skills
 
 **Key:**
