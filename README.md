@@ -18,6 +18,7 @@ A comprehensive README with project snapshots for recruiters to evaluate my skil
 **Machine Learning Work**
 - 2024:
   - :desktop_computer: https://github.com/JenniferSailor/EcologicalDataScientist_LemoineLab
+  - :notebook: https://github.com/JenniferSailor/GuassianProcessRegressionPerformance_StatisticalMachineLearning
 - 2023:
   - :desktop_computer: https://github.com/JenniferSailor/DataAnalyticsIntern_FFBKC
 - 2022:
