@@ -34,7 +34,7 @@ A comprehensive README with project snapshots for recruiters to evaluate my skil
   - :desktop_computer: [Assessment Research - Library Services Project](https://github.com/JenniferSailor/AssessmentResearcher_LibraryServices)
   - :desktop_computer: [Assessment Research - Admissions Office](https://github.com/JenniferSailor/AssessmentResearcher_AdmissionsOffice)
 - 2021:
-  - :desktop_computer: [Data Analytics Healthcare Undergraduate Research](https://github.com/JenniferSailor/DataAnalyticsUndergraduateResearcher)
+  - :desktop_computer: [Healthcare Data Analytics Undergraduate Research](https://github.com/JenniferSailor/DataAnalyticsUndergraduateResearcher)
 
 
 **Applications:**
