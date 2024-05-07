@@ -22,7 +22,7 @@ A comprehensive README with project snapshots for recruiters to evaluate my skil
 - 2023:
   - :desktop_computer: [Data Analytics Intern](https://github.com/JenniferSailor/DataAnalyticsIntern_FFBKC)
 - 2022:
-  - :notebook: Data Analysis and Prediction of U.S. Professors' Salaries
+  - :notebook: [Data Analysis and Prediction of U.S. Professors' Salaries](https://github.com/JenniferSailor/USProfessorSalariesDA_RegressionAnalysis)
   - :notebook: Facial Classification with PCA and SVM 
   - :notebook: Comparison of Classification Techniques
 
