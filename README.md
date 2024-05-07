@@ -1,8 +1,8 @@
 # Portfolio
 
-WELCOME! 🥳 🌟
-**Description:**
-A comprehensive README with project snapshots for recruiters to evaluate my skills
+WELCOME! 🥳 
+
+This is a comprehensive README with project snapshots for recruiters to evaluate my skills
 
 ## About Me:
 With a passion for data-driven insights and problem-solving, I bring a blend of academic rigor and real-world experience to the field of data science. My Master's degree in Applied Statistics and Bachelor's degree in Data Science, coupled with two and a half years of experience, give me a strong background in data analysis, machine learning, and project management. 
