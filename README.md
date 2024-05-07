@@ -14,30 +14,32 @@ A comprehensive README with project snapshots for recruiters to evaluate my skil
 **Key:**
 - :desktop_computer: Work completed through internship/job/volunteering work
 - :notebook: Work completed through a school project
+- :snake: Python
+- :blue_square: R
 
 **Machine Learning Work**
 - 2024:
-  - :desktop_computer: [Ecological Data Scientist](https://github.com/JenniferSailor/EcologicalDataScientist_LemoineLab)
-  - :notebook: [Gaussian Process Regression Performance](https://github.com/JenniferSailor/GuassianProcessRegressionPerformance_StatisticalMachineLearning) 
+  - :desktop_computer:  :snake: [Ecological Data Scientist](https://github.com/JenniferSailor/EcologicalDataScientist_LemoineLab)
+  - :notebook: :blue_square: [Gaussian Process Regression Performance](https://github.com/JenniferSailor/GuassianProcessRegressionPerformance_StatisticalMachineLearning) 
 - 2023:
-  - :desktop_computer: [Data Analytics Intern](https://github.com/JenniferSailor/DataAnalyticsIntern_FFBKC)
+  - :desktop_computer: :snake: [Data Analytics Intern](https://github.com/JenniferSailor/DataAnalyticsIntern_FFBKC)
 - 2022:
-  - :notebook: [Data Analysis and Prediction of U.S. Professors' Salaries](https://github.com/JenniferSailor/USProfessorSalariesDA_RegressionAnalysis)
-  - :notebook: [Facial Classification with PCA and SVM]( https://github.com/JenniferSailor/FacialClassification_TopicsDataScience)
+  - :notebook: :blue_square: [Data Analysis and Prediction of U.S. Professors' Salaries](https://github.com/JenniferSailor/USProfessorSalariesDA_RegressionAnalysis)
+  - :notebook: :blue_square: [Facial Classification with PCA and SVM]( https://github.com/JenniferSailor/FacialClassification_TopicsDataScience)
 
 
 **Data Analytics Work**
 - 2024:
-  - :desktop_computer: [Ecological Data Scientist](https://github.com/JenniferSailor/EcologicalDataScientist_LemoineLab)
-  - :notebook: [Kansas City School Crime Risk Analysis](https://github.com/JenniferSailor/KCSchoolsCrimeRisk_DataIntelligence)
+  - :desktop_computer: :snake: [Ecological Data Scientist](https://github.com/JenniferSailor/EcologicalDataScientist_LemoineLab)
+  - :notebook: :blue_square: [Kansas City School Crime Risk Analysis](https://github.com/JenniferSailor/KCSchoolsCrimeRisk_DataIntelligence)
 - 2023:
-  - :notebook: [RShiny EM Algorithm App](https://github.com/JenniferSailor/RShinyEMAlgorithm_ComputationalProbability)
+  - :notebook: :blue_square: [RShiny EM Algorithm App](https://github.com/JenniferSailor/RShinyEMAlgorithm_ComputationalProbability)
 - 2022:
-  - :desktop_computer: [Assessment Research - Library Services Project](https://github.com/JenniferSailor/AssessmentResearcher_LibraryServices)
-  - :desktop_computer: [Assessment Research - Admissions Office](https://github.com/JenniferSailor/AssessmentResearcher_AdmissionsOffice)
-  - :notebook: [Data Analysis and Prediction of U.S. Professors' Salaries](https://github.com/JenniferSailor/USProfessorSalariesDA_RegressionAnalysis)
+  - :desktop_computer: :blue_square: [Assessment Research - Library Services Project](https://github.com/JenniferSailor/AssessmentResearcher_LibraryServices)
+  - :desktop_computer: :blue_square: [Assessment Research - Admissions Office](https://github.com/JenniferSailor/AssessmentResearcher_AdmissionsOffice)
+  - :notebook:  :blue_square: [Data Analysis and Prediction of U.S. Professors' Salaries](https://github.com/JenniferSailor/USProfessorSalariesDA_RegressionAnalysis)
 - 2021:
-  - :desktop_computer: [Healthcare Data Analytics Undergraduate Research](https://github.com/JenniferSailor/DataAnalyticsUndergraduateResearcher)
+  - :desktop_computer: :blue_square: [Healthcare Data Analytics Undergraduate Research](https://github.com/JenniferSailor/DataAnalyticsUndergraduateResearcher)
 
 
 **Applications:**
