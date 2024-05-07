@@ -24,7 +24,6 @@ A comprehensive README with project snapshots for recruiters to evaluate my skil
 - 2022:
   - :notebook: [Data Analysis and Prediction of U.S. Professors' Salaries](https://github.com/JenniferSailor/USProfessorSalariesDA_RegressionAnalysis)
   - :notebook: [Facial Classification with PCA and SVM]( https://github.com/JenniferSailor/FacialClassification_TopicsDataScience)
-  - :notebook: Comparison of Classification Techniques
 
 
 **Data Analytics Work**
