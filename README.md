@@ -13,8 +13,7 @@ A comprehensive README with project snapshots for recruiters to evaluate my skil
 
 **Key:**
 - :desktop_computer: Work completed through internship/job/volunteering work
-- :notebook: Work completed through a graduate school project
-- :spiral_notepad: Work completed through an undergraduate school project
+- :notebook: Work completed through a school project
 
 **Machine Learning Work**
 - 2024:
@@ -25,7 +24,7 @@ A comprehensive README with project snapshots for recruiters to evaluate my skil
 - 2022:
   - :notebook: Data Analysis and Prediction of U.S. Professors' Salaries
   - :notebook: Facial Classification with PCA and SVM 
-  - :spiral_notepad: Comparison of Classification Techniques
+  - :notebook: Comparison of Classification Techniques
 
 
 **Data Analytics Work**
