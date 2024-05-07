@@ -2,13 +2,13 @@
 
 WELCOME! 🥳 🌟
 
-**About Me:**
+## About Me:
 With a passion for data-driven insights and problem-solving, I bring a blend of academic rigor and real-world experience to the field of data science. My Master's degree in Applied Statistics and Bachelor's degree in Data Science, coupled with two and a half years of experience, give me a strong background in data analysis, machine learning, and project management. 
 Throughout my career, I've thrived in team-oriented environments, leveraging my communication and leadership abilities to cultivate a successful team. My time in Milwaukee was instrumental in honing my skills and furthering my education. Now, back in Kansas City, I am excited to contribute to the local data community and tackle new challenges.
 
 **Link:** [Jennifer's LinkedIn](https://www.linkedin.com/in/jennifer-ann-nicole-sailor/)
 
-**Description:**
+## Description:
 A comprehensive README with project snapshots for recruiters to evaluate my skills
 
 **Key:**
